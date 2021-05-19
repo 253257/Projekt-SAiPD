@@ -1,0 +1,2 @@
+19.05
++ dodano zarezerwowanie przyrządów w stanie inicjalizującym maszyne
