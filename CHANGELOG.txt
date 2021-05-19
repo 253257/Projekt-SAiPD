@@ -1,2 +1,3 @@
-19.05
+19.05 - MR
 + dodano zarezerwowanie przyrządów w stanie inicjalizującym maszyne
++ dodano zwolnienie przyrzadow w stanie "exit"
