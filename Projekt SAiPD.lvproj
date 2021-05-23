@@ -106,6 +106,20 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
+				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
+				<Item Name="Close DWDT Array Dlog File+.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Close DWDT Array Dlog File+.vi"/>
+				<Item Name="Write DWDT Dlog File+.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Write DWDT Dlog File+.vi"/>
+				<Item Name="compatOverwrite.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOverwrite.vi"/>
+				<Item Name="compatOpenFileOperation.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOpenFileOperation.vi"/>
+				<Item Name="Open Create Replace DWDT Array Dlog File.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Open Create Replace DWDT Array Dlog File.vi"/>
+				<Item Name=" Write Waveform to File (Digital).vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/ Write Waveform to File (Digital).vi"/>
+				<Item Name="Close WDT Array Dlog File+.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Close WDT Array Dlog File+.vi"/>
+				<Item Name="Write WDT Array Dlog File+.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Write WDT Array Dlog File+.vi"/>
+				<Item Name="Open Create Replace WDT Array Dlog File.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Open Create Replace WDT Array Dlog File.vi"/>
+				<Item Name=" Write Waveforms to File (2D).vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/ Write Waveforms to File (2D).vi"/>
+				<Item Name=" Write Waveforms to File (1D).vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/ Write Waveforms to File (1D).vi"/>
+				<Item Name=" Write Waveform to File.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/ Write Waveform to File.vi"/>
+				<Item Name="Write Waveforms to File.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Write Waveforms to File.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
