@@ -1,3 +1,7 @@
+31.05 - MR
++ zmiana przycisków na ładne
++ dodanie sterowania kanałem A zasilacza w zależności od prądu ustawionego na gałce (działa tylko gdy napięcie wynosi ponad 10V, jest tak ograniczone że niżej nie pozwoli ustawić)
+
 19.05 - MR
 + dodano zarezerwowanie przyrządów w stanie inicjalizującym maszyne
 + dodano zwolnienie przyrzadow w stanie "exit"
